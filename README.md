@@ -1,0 +1,1 @@
+# Detectie-genului-persoanelor-folosind-retele-neurale-adanci
